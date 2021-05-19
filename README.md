@@ -1,4 +1,4 @@
-Matlab Simulink Master Class for Electrical E ngineering
+Matlab Simulink Master Class for Electrical Engineering
 ========================================================
 
 Spread the love
